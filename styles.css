@@ -6,6 +6,8 @@
 	color:white;
 	border-radius:20px;
 	text-align:center;
+	display:flex;
+	
 }
 
 body{
